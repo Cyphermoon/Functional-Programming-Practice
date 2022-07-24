@@ -19,5 +19,8 @@ def sideWayTriangleOutputPattern():
         print("#" * formula, formula)
 
 
+sideWayTriangleOutputPattern()
+
+
 
 
